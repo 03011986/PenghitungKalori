@@ -1,0 +1,6 @@
+{
+  "name": "Buku Kalori Harian",
+  "description": "Aplikasi pencatat kalori makanan dan asupan air harian dengan tema skeuomorfik yang dilengkapi dengan analisis foto bertenaga AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
